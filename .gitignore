@@ -1,0 +1,28 @@
+## Build and output directories
+bin/
+obj/
+publish/
+[Bb]uild/
+out/
+
+## Visual Studio & IDE files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+.vscode/
+
+## Local runtime config, logs & binary cores
+config/
+*.log
+xray-core/
+*.exe
+*.dat
+
+## OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
